@@ -11,10 +11,7 @@ This project is a REST API service for managing food items for a restaurant, bui
 
 ## Getting Started
 
-### Clone the Repository
-
-To clone the repository, run the following command:
-
+1. Clone the Repository
 ```sh
 git clone <repository-url>
 ```
