@@ -1,4 +1,4 @@
-# REST-service-application-using-Ballerina
+# REST API service application for a resturant using Ballerina
 This project is a REST API service for managing food items for a restaurant, built using Ballerina. The service demonstrate the CRUD operations in ballerina including endpoints to get all food items, add new food items, update food items and delete food items.
 
 `This project is developed under the course module CO528 - Applied Software Architecture`
